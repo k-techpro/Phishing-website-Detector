@@ -38,3 +38,5 @@ Open the local URL shown in the terminal and enter any URL to check.
 - The app uses only **lexical** features. You can extend it with SSL, WHOIS age, and page-content features.
 - If `artifacts/model.pkl` is missing, the app falls back to a simple **rule-based** scorer so it still works live.
 - To avoid the common "feature mismatch" error, both training and inference use the **same `FEATURE_ORDER`**.
+
+- Created by **kombaiya** **k-techpro**
